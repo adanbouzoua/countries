@@ -4112,7 +4112,7 @@
         "enabled": false,
         "code3l": "LAO",
         "code2l": "LA",
-        "name": "Lao People's Democratic Republic",
+        "name": "Lao People's Democratic Republic (the)",
         "name_official": "Lao People's Democratic Republic",
         "center": {
             "latitude": "17.76075593",
@@ -4133,7 +4133,7 @@
                 "name_official": "la République démocratique populaire lao"
             },
             "it": {
-                "name": "Repubblica democratica popolare del Laos (the)",
+                "name": "Repubblica democratica popolare del Laos",
                 "name_official": "Repubblica democratica popolare del Laos"
             },
             "ru": {
